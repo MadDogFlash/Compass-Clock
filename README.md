@@ -39,6 +39,6 @@ Make sure you specify so in my case
 
 ## Acknowledgments
 
-  - 
-  - 
-  - 
+  - I found out how to make the compass clock using golangprograms.com  
+  - https://www.golangprograms.com/create-react-app.html here is the link to the project
+  - thats all!
